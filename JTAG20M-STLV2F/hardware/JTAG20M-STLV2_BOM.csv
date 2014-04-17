@@ -1,0 +1,14 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"0.1uF";"CAP0603-CAP";"0603-CAP";"Capacitor";"";
+"FID1";"FIDUCIAL1.5X3";"FIDUCIAL1.5X3";"FIDUCIAL-1.5X3";"Fiducial Alignment Points";"";
+"FID2";"FIDUCIAL1.5X3";"FIDUCIAL1.5X3";"FIDUCIAL-1.5X3";"Fiducial Alignment Points";"";
+"FID3";"FIDUCIAL1.5X3";"FIDUCIAL1.5X3";"FIDUCIAL-1.5X3";"Fiducial Alignment Points";"";
+"FID4";"FIDUCIAL1.5X3";"FIDUCIAL1.5X3";"FIDUCIAL-1.5X3";"Fiducial Alignment Points";"";
+"JTAG1";"ST-LINK-V2";"ST-LINK-V2";"1X06_2.54MM_PTH";"ST-Link/V2 JTAG/SWD Connector";"";
+"JTAG2";"JTAG-10PIN";"JTAG-10PINSMD";"2X05_1.27MM_SMT";"JTAG 10 Pin (SWD) Programming Connector";"";
+"JTAG3";"JTAG-20PIN";"JTAG-20PIN";"2X10_2.54MM_PTH";"JTAG 20 Pin Programming Connector";"";
+"R1";"4.7K";"RESISTOR_SFE0603-RES";"0603-RES";"Resistor";"";
+"RST";"";"JUMPER2";"JUMPER2";"Jumper 2 Pin";"";
+"RTCK1";"";"JUMPER3";"JUMPER3";"Jumper 3 Pin";"";
+"U$2";"PA_LOGO_SYMLARGE";"PA_LOGO_SYMLARGE";"PA_LOGO_AGENT_LRG_SYM";"PatternAgents Logo Symbol";"";
+"VREF";"";"JUMPER2";"JUMPER2";"Jumper 2 Pin";"";
